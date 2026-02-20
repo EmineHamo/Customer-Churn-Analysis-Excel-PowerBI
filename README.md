@@ -108,9 +108,11 @@ Churn appears driven more by financial and engagement friction than contract str
 
 ## 📁 Repository Structure
 
-Customer-Churn-Analysis-Excel-PowerBI
+```
+Customer-Churn-Analysis-Excel-PowerBI/
 │
 ├── excel/
+│
 │   └── Churn_Analysis_Model.xlsx
 │
 ├── powerbi/
@@ -122,6 +124,8 @@ Customer-Churn-Analysis-Excel-PowerBI
 │   └── Summary_Page.png
 │
 └── README.md
+```
+
 ---
 
 ## 📌 Project Outcome
