@@ -122,7 +122,6 @@ Customer-Churn-Analysis-Excel-PowerBI
 │   └── Summary_Page.png
 │
 └── README.md
-
 ---
 
 ## 📌 Project Outcome
