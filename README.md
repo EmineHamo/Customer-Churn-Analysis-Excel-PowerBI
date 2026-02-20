@@ -107,3 +107,34 @@ Churn appears driven more by financial and engagement friction than contract str
 ---
 
 ## 📁 Repository Structure
+
+Customer-Churn-Analysis-Excel-PowerBI
+│
+├── excel/
+│   └── Churn_Analysis_Model.xlsx
+│
+├── powerbi/
+│   └── Churn_Dashboard.pbix
+│
+├── screenshots/
+│   ├── Executive_Overview.png
+│   ├── Drivers_Page.png
+│   └── Summary_Page.png
+│
+└── README.md
+
+---
+
+## 📌 Project Outcome
+
+This project demonstrates:
+
+- End-to-end data transformation (Power Query)
+- Feature engineering and segmentation
+- Rule-based risk modeling
+- Revenue impact analysis
+- Business-driven dashboard storytelling
+
+It reflects practical Business Intelligence workflow from data preparation to executive-level insight delivery.
+
+
